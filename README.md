@@ -19,3 +19,4 @@
 15. git push -u origin main
 ## Apartir de aqui ya suben los cambios con push
 16. git push
+17. git commit -am "mensaje"
