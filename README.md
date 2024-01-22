@@ -16,7 +16,7 @@
 ## Para subirlo a github
 13. git remote add origin https://github.com/Developer-Abel/comandos_GIT_2.git
 14. git branch -M main
-15. git push -u origin main
+15. git push -u origin main (si falla -------> git push -f origin main)
 ## Apartir de aqui ya suben los cambios con push
 16. git push
 17. git commit -am "mensaje"
